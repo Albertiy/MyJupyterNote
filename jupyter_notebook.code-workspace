@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.defaultInterpreterPath": "E:\\SETUP\\miniconda3\\envs\\learn_numpy\\python.exe",
+		"python.condaPath": "E:\\SETUP\\miniconda3\\envs\\learn_numpy\\python.exe",
+	}
+}
